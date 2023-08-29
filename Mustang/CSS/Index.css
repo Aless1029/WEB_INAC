@@ -1,0 +1,31 @@
+*{
+    margin: auto;
+    padding:auto;
+}
+body,html{
+    background-image: url(../imagenes/f1.jpg);
+  background-repeat: repeat;
+  display:block;  
+  height: 100%;
+  background-position: center;
+ }
+.tarjeta-caja{
+    display: flex-block ;
+    width: 600px;
+    padding: 70px 40px;
+    margin: 0px 0px 0px 400px;
+    border-radius: 15px;
+    background: grey;
+
+
+}
+.imagen_1{
+    width: 200px;
+    height: 150px;
+
+
+}
+.btn-sesion{
+	background: #3b11e6c4;
+    border-radius: 10px;
+}

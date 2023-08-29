@@ -1,0 +1,14 @@
+body,html{
+    background-image: url(../imagenes/f1.jpg);
+  }
+  .caja_2{
+       display: flex-block ;
+    width: 600px;
+    padding: 70px 40px;
+    margin: 0px 0px 0px 400px;
+    border-radius: 15px;
+ }
+.centrado{
+    height: 250px;
+    width: 300px;
+ }

@@ -1,0 +1,19 @@
+body,html{
+    background-image: url(../imagenes/f1.jpg);
+  }
+  .caja_2{
+       display: flex-block ;
+    width: 600px;
+    padding: 70px 40px;
+    margin: 0px 0px 0px 400px;
+    border-radius: 15px;
+ 
+  }
+.letra{
+color: white;
+position: auto;
+}
+.img_info{
+    height: 300px;
+    width: 300px;
+}
